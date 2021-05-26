@@ -1,4 +1,4 @@
-# discordbot-truewall-gift
+# discordbot-truewall-gift By Me >_<
 
 How to use -> npm i discord.js truewallet-gift
 
